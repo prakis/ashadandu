@@ -4,6 +4,7 @@ path: /dive-into-domains-extensions
 date: 2020-06-16T19:59:49.173Z
 title: Dive into Domain Extensions
 metaDescription: meta description
+thumbnail: /assets/image-1.jpg
 ---
 I have talked about the basic rules or tips to follow while looking for domain names in my first blog. This one will be about domain extensions and how to choose one.
 
