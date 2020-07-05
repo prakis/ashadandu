@@ -3,6 +3,7 @@ template: BlogPost
 path: /dive-into-domains-extensions
 date: 2020-06-16T19:59:49.173Z
 title: Dive into Domain Extensions
+metaDescription: meta description
 ---
 I have talked about the basic rules or tips to follow while looking for domain names in my first blog. This one will be about domain extensions and how to choose one.
 
