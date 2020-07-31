@@ -4,6 +4,7 @@ path: /resume
 date: 2020-07-20T21:08:28.386Z
 title: Resume - Career in just a few words
 metaDescription: Resume writing tips
+thumbnail: /assets/resizehere-com (1).jpeg
 ---
 Being a recruiter by profession, I read a few hundred resumes every day. It almost takes 1-2 minutes max on each resume. Yep, you read that right!! According a study, recruiters spend only 6 seconds to read a resume. And that’s all the time you’ve got to impress the reader so your resume doesn’t end up in the “rejected” pile.
 
