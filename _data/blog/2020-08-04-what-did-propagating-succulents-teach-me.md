@@ -4,7 +4,7 @@ path: '/gardening '
 date: 2020-08-04T14:32:56.837Z
 title: 'What did propagating Succulents teach me? '
 metaDescription: 'Succulent propagation, hobbies, gardening, lessons from gardening. '
-thumbnail: /assets/WhatsApp Image 2020-08-04 at 10.37.24 AM.jpeg
+thumbnail: /assets/max-smith-ncJULjGEt0s-unsplash-Small.jpg
 ---
 Out of all the hobbies I've developed, gardening is one that has always stayed with me no matter where I lived. I've tried growing my own green leafy vegetables, seasonal flowers and pothos. The one plant family that has never failed to amaze me is Succulents. 
 
